@@ -1,6 +1,6 @@
 Key,Type,Desc,English,Chinese (Simplified),French,Russian,German
 VAB/PartsPicker/0505-LifeSupport,Text,,Life Support,生命保障,Support de Vie,Жизнеобеспечение,Lebenserhaltung
-PartModules/LifeSupportRecycler/Name,Text,,Life Support,生命保障,Support de Vie,Жизнеобеспечение,KLSS-Recycler
+PartModules/LifeSupportRecycler/Name,Text,,Life Support,生命保障,Support de Vie,Жизнеобеспечение,Lebenserhaltung
 KLSS/LSR/RecyclerEnabled,Text,,Recycler Enabled,循环处理器已启用,Recycleur Activé,Рециркулятор включен,Recycler aktiv
 KLSS/LSR/StartRecycler,Text,,Start Recycler,启用循环处理器,Démarrer Recycleur,Включить рециркулятор,Starte Recycler
 KLSS/LSR/Tooltip/StopRecycler,Text,,Stop Recycler,停用循环处理器,Éteindre Recycleur,Выключить рециркулятор,Stoppe Recycler
@@ -8,13 +8,13 @@ KLSS/LSR/Tooltip/ToggleRecycler,Text,,Toggle Recycler,切换循环模式,Bascule
 KLSS/LSR/Formulas/CO2Scrubber,Text,,CO2 Scrubber,CO2洗涤器,Épurateur de CO2,Поглощение CO2,CO2-Wandler
 KLSS/LSR/Formulas/WaterRecycler,Text,,Water Recycler,水回收器,Recycleur d'Eau,Рециркуляция воды,Wasserrecycler
 KLSS/LSR/Formulas/Combined,Text,,CO2 Scrubber + Water Recycler,CO2洗涤器 + 水回收器,Épurateur CO2 + Recycleur Eau,Поглощение CO2 + Рециркуляция воды,CO2-Wandler + Wasserrecycler
-PartModules/Greenhouse/Name,Text,,Greenhouse,温室,Serre,Теплица,Gewächshaus
+PartModules/Greenhouse/Name,Text,,Greenhouse,温室,Serre,Теплица,Kultivierungssystem
 KLSS/LSR/GreenhouseEnabled,Text,,Greenhouse Enabled,温室已启用,Serre Activée,Теплица работает,Gewächshaus aktiv
 KLSS/LSR/StartGreenhouse,Text,,Start Greenhouse,启用温室,Démarrer Serre,Включить теплицу,Starte Gewächshaus
 KLSS/LSR/Tooltip/StopGreenhouse,Text,,Stop Greenhouse,停用温室,Éteindre Serre,Выключить теплицу,Stoppe Gewächshaus
 KLSS/LSR/Tooltip/ToggleGreenhouse,Text,,Toggle Greenhouse,切换温室模式,Basculer Serre,Переключить режим теплицы,Schalte Gewächshaus um
-KLSS/LSR/Formulas/Greenhouse,Text,,Unfertilized,不施肥,Non Fertilisé,Неоплодотворенный,Nicht gedüngt
-KLSS/LSR/Formulas/GreenhouseFertilized,Text,,Fertilized,施肥,Fertilisé,Оплодотворенный,Gedüngt
+KLSS/LSR/Formulas/Greenhouse,Text,,Unfertilized,不施肥,Non Fertilisé,Неоплодотворенный,Ohne Dünger
+KLSS/LSR/Formulas/GreenhouseFertilized,Text,,Fertilized,施肥,Fertilisé,Оплодотворенный,Mit Dünger
 PartModules/Composter/Name,Text,,Composter,堆肥舱,Composteur,Компостер,Komposter
 KLSS/LSR/ComposterEnabled,Text,,Composter Enabled,堆肥舱已启用,Composteur Activé,Компостер работает,Komposter aktiv
 KLSS/LSR/StartComposter,Text,,Start Composter,启用堆肥舱,Démarrer Composteur,Включить компостер,Starte Komposter
@@ -32,7 +32,7 @@ KLSS/UI/Monitor/FilterBoth,Text,,Both,全部,Tout,Оба,Beides
 KLSS/UI/Monitor/HeaderName,Text,,Name,名称,Nom,Имя,Name
 KLSS/UI/Monitor/SettingShowEmpty,Text,,Show empty vessels,显示空载具,Voir vaisseaux vides,Показывать пустые сосуды,Zeige leere Fahrzeuge
 KLSS/UI/Monitor/SettingActiveOnTop,Text,,Active vessel on top,置顶当前载具,Vaisseau actif en haut,Активный сосуд сверху,Aktives Fahrzeug oben
-KLSS/Variants/TankType,Text,,Tank Type,储藏类型,Type de Stockage,Тип резервуара,Behälterart
+KLSS/Variants/TankType,Text,,Tank Type,储藏类型,Type de Stockage,Тип резервуара,Behälterinhalt
 Parts/Title/KLSS_life_support_tank_1v_1x1,Text,,SCS-100,SCS-100,SCS-100,SCS-100,SCS-100
 Parts/Subtitle/KLSS_life_support_tank_1v_1x1,Text,,Small Combined Storage,小型混合储藏舱,Petit Stockage Combiné,Небольшое смешанное хранилище,Kleine Kombi-Lagereinheit
 Parts/Manufacturer/KLSS_life_support_tank_1v_1x1,Text,,Yummy Snacks Inc.,好吃零食公司,Miam Miam S.A.,"ресторан ""Безвкусно и точка""",Yummy Snacks Inc.
